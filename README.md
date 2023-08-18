@@ -1,5 +1,14 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Python Web development with Django
+
+My Stats:
+
+
+   [![GitHub Streak](https://streak-stats.demolab.com/?user=MartinIvaylov&theme=highcontrast)](https://git.io/streak-stats)
+
+
+
+
 <!--
 **MartinIvaylov/MartinIvaylov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,10 +23,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-  My Stats:
-
-
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MartinIvaylov&theme=highcontrast)](https://git.io/streak-stats)
